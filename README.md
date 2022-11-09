@@ -30,7 +30,7 @@ _In this application, you experience how powerful the term API is and you also g
 * 5. Having done that, inside the index.js javascript file check to see a variable where I stored my openweathermap link in(endpoint) and in the "process.env.API_KEY" change it to a "process.env.API_KEY.THE_VARIABLE_NAME_YOU_STORED_YOUR_API_KEY_IN"
 * 6. Ensure you take part in the no5 otherwise you'll get a "401: invalid api key" error. If you do get lost on the way, you can contact me below with the contact details I supplied below
 
-## WebLink
+## WebPage Link
 https://emzzy241.github.io/The-great-giphy-app/
 
 ## Detected Bugs/ Issues
