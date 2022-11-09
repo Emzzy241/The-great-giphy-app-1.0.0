@@ -34,7 +34,7 @@ _In this application, you experience how powerful the term API is and you also g
 ## Detected Bugs/ Issues
 * _No detected bugs_
 * _The one bug you will definitely encounter is if you fail to follow any of the Setup/Installation Information I gave you_
-* _Note: as at the launch of this Application there are no bugs but this is not the finished product as I will be adding more features later on. If anyone comes in contact with a bug, be sure to hit me up on social media or email me @emzzyoluwole@gmail.com. WATCH OUT FOR VERSION 1.1 WHICH IS COMING SOON_
+* _Note: as at the launch of this Application there are no bugs but this is not the finished product as I will be adding more features later on. If anyone comes in contact with a bug, be sure to hit me up on social media or email me @emzzyoluwole@gmail.com. WATCH OUT FOR VERSION 1.1 WHICH IS COMING SOON. And also in version 1.1, I would be using new JavaScript technologies to build app from scratch like: Promises, fetch, Async and Awake functions_
 
 
 ## License
