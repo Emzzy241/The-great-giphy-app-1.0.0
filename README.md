@@ -1,4 +1,4 @@
-# THE Great Giphy App
+# THE Great Giphy App 1.0.0
 #### made by Mojiboye Emmanuel
 
 #### An application you can input how you feel and then get an amazing gif that completely expresses how you feel
